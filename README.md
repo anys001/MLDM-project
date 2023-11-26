@@ -1,7 +1,7 @@
 # MLDM-project
 This repository is created for group project of Ani Sahakyan, Warda Tariq and Nachyn-Enkhedorzhu Oorzhak. At first we choosed project from Kaggle to eork on Red Wine Quality project, which dataset is here: https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009/data. Then we understood, that it has few features to work, so we decided to choose bank datasets and we will build a classification model based on the limited dataset for propensity to the product "Consumer Credit". Datasets are posted in this repo.
 
-Main putpose of this project and nformation about datasets:
+Main purpose of this project and nformation about datasets:
 
 We need to build a classification model based on the limited dataset for propensity to the product "Consumer Credit".
 
