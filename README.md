@@ -1,7 +1,9 @@
 # MLDM-project
-This repository is created for group project of Ani Sahakyan, Warda Tariq and Nachyn-Enkhedorzhu Oorzhak. At first we choosed project from Kaggle to work on Red Wine Quality project, which dataset is here: https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009/data. Then we understood, that it has few features to work, so we decided to choose bank datasets and we will build a classification model based on the limited dataset for propensity to the product "Consumer Credit". Datasets are posted in this repo.
+This repository is created for group project of Ani Sahakyan, Warda Tariq and Nachyn-Enkhedorzhu Oorzhak. At first we choosed project from Kaggle to work on Red Wine Quality project, which dataset is here: https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009/data. In WineQuality.ipynb file we did data preprocessing and features enginnering, but we understood, that it has few features to work, so we decided to change project.
+<br>
+We decided to take more practical project and build classification model based on the datasets which contains information about clients credits and transactions. Datasets are posted in this repo. The main file for this project is BankProj.ipynb. <br>
 
-Main purpose of this project and nformation about datasets:
+Main purpose of this project and information about datasets:
 
 We need to build a classification model based on the limited dataset for propensity to the product "**Consumer Credit**".
 <br>
